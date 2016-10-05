@@ -1,0 +1,16 @@
+{
+    "name": "webcrawlers",
+    "version": "0.0.1",
+    "description": "A folder that contain crawler for different websites.",
+    "main": "main.js",
+    "author": "RogerLiao",
+    "dependencies": {
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest",
+        "async": "latest",
+        "superagent": "latest",
+        "node-emoji": "latest",
+        "colors": "latest"
+    }
+}
